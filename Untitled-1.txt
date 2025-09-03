@@ -1,0 +1,4 @@
+my-website/
+├── index.html   (main website)
+├── style.css    (all styling)
+└── me.jpg       (your photo)
